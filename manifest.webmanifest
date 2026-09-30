@@ -1,0 +1,17 @@
+{
+  "name": "Digital Licence",
+  "short_name": "Digital Licence",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0C3A5E",
+  "theme_color": "#691628",
+  "icons": [
+    {
+      "src": "img/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
